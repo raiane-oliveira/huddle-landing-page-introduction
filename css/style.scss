@@ -64,12 +64,13 @@ body {
         color: $violet;
         font-family: $fontHeadings;
         transition: background-color 300ms ease-out;
-    }
 
-    button:hover {
-        background-color: $softMagenta;
-        color: white;
-        cursor: pointer;
+        
+        &:hover {
+            background-color: $softMagenta;
+            color: white;
+            cursor: pointer;
+        }
     }
 }
 
