@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned more about responsive design and how to apply it in practice. I learned to deal more with SVG images. In addition, I trained some basic syntax and functionalities of the Sass preprocessor.
+I learned about responsive design and how to apply it in practice. I learned to deal more with SVG images. In addition, I trained some basic syntax and functionalities of the Sass preprocessor.
 
 ## Author
 
