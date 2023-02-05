@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
--   Live Site URL: [Huddle Landing Page](https://raiane-oliveira.github.io/huddle-landing-page-introduction/)
+-   Live Site URL: [Huddle Landing Page](https://huddle-landing-page-raiane.vercel.app)
 
 ## My process
 
